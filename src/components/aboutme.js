@@ -28,7 +28,7 @@ class About extends Component {
                 <Cell col={12} >
                     <div className="Hobbys">
                         <h1>Hobby’s </h1>
-                        <h2>Mijn hobby's zijn:</h2>
+                       
 
                         <ul>
                             <MaterialIcon icon="fitness_center" size='large' /> 
