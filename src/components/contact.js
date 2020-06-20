@@ -9,7 +9,7 @@ class Contact extends Component {
                 <div className="Contact-tekst">
                     <h1>Contact Me</h1>
                     <h2>Email: Jawed.b@hotmail.com</h2>
-                    <h2>Phone: (+31)614598688</h2>
+                    <h2>Telefoon: (+31)614598688</h2>
 
                     
                             
