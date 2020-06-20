@@ -13,8 +13,8 @@ class About extends Component {
                         <h1>Hallo,</h1>
                         <h2>Ik ben Jawed Balkhi</h2>
                         <p>Ik ben Jawed Balkhi geboren op 11 maart 1991 in Kabul te Afghanistan.
-                           Sinds mijn vijftiende woon ik hier in Nederland en het bevalt me vrij goed.
-                           Ik heb internationale schakel klassen (ISK) gedaan en vervolgens heb ik MBO ICT afgeron op ROC Leiden.
+                           Sinds mijn vijftiende woon ik in Nederland en het bevalt me vrij goed.
+                           Ik heb internationale schakel klassen (ISK) gedaan en vervolgens heb ik MBO ICT afgerond op ROC Leiden.
                            Ik heb altijd ICT leuk gevonden dat is de reden waarom ik 6 jaar MBO ICT heb gevolgd en nu ook voor Informatica heb gekozen.</p>
                     </div>
                 </Cell>
