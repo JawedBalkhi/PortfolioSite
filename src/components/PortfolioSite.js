@@ -29,7 +29,7 @@ media="(min-width: 800px)" />
 
                     <div className="banner-text">
                         
-                        <h1>Hello !!</h1>
+                        <h1>Hallo !!</h1>
                         <h2>Ik ben Jawed Balkhi</h2>
                         <p>Deze site dient als mijn portfolio. Hier kunt u informatie vinden over mij wat betreft mijn persoonlijke gegevens en mijn professionele voortgang.</p>
                         <hr />
