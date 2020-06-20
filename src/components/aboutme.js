@@ -21,7 +21,7 @@ class About extends Component {
                 <Cell col={12}>
                     <div className="Kwaliteiten">
                         <h1>Mijn kwaliteiten</h1>
-                        <p>Ik ben erg gedreven en gemotiveerd, daarom ben ik er van overtuigd dat ik mijn diploma zal gaan hallen. Ik ben communicatief sterk en kan goed overweg met iedereen, dit heb ik allemaal geleerd tijdens mijn werkzaamheden bij verschillende bedrijven.
+                        <p>Ik ben erg gedreven en gemotiveerd, daarom ben ik er van overtuigd dat ik mijn diploma zal gaan halen. Ik ben communicatief sterk en kan goed overweg met iedereen, dit heb ik allemaal geleerd tijdens mijn werkzaamheden bij verschillende bedrijven.
                            Ik heb twee jaar als magazijnbeheerder gewerkt bij Well of Wine. Gedurende deze periode heb ik mijzelf onmisbaar gemaakt in het team. Ik ben daarom een goede teamplayer. Verder ben ik sociaal en kan ik goed met mensen opschieten. </p>
                     </div>
                 </Cell>
