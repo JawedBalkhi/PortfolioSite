@@ -9,7 +9,7 @@ class Contact extends Component {
                 <div className="Contact-tekst">
                     <h1>Contact Me</h1>
                     <h2>Email: Jawed.b@hotmail.com</h2>
-                    <h2>Telefoon: (+31)614598688</h2>
+                    <h2>Telefoon: (+31)614598XXX</h2>
 
                     
                             
@@ -30,7 +30,7 @@ class Contact extends Component {
                                         <label for="Onderwerp">Onderwerp</label>
                                         <textarea id="Onderwerp" name="Onderwerp" placeholder="Schrijf hier iets.." ></textarea>
 
-                                        <input type="bevestigen" value="bevestigen"/>
+                                        <input type="Submit" value="bevestigen"/>
   </form>                 
                   </div>
                 </Cell>
