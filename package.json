@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jawedbalkhi.github.io/landingpage/",
+  "homepage": "https://jawedbalkhi.github.io/PortfolioSite/",
   "dependencies": {
     "material-icons-react": "^1.0.4",
     "mdbreact": "^4.23.0",
