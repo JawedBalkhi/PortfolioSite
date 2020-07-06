@@ -15,6 +15,9 @@ class Projects extends Component {
                    
             
             <Grid className="Proejct" >
+
+        
+                           
             <Cell col={6}>  
                 <div className="Project-tekst">
 
@@ -68,6 +71,61 @@ class Projects extends Component {
                            
                            </div>
                                 </div>
+                                
+                            </Cell>
+                            <Cell col={6}>  
+                <div className="Project-tekst">
+
+                             
+                     
+                                    <h1>Stage Opdracht 3e Jaar</h1>
+                                    <h2>Bedrijf: Hydrologic</h2>
+                                    <p> Momenteel Maakt HydroLogic gebruik van 2 systemen voor zijn diensten, HydroNET 3 en HydroNET 4. HydroLogic is aan het overstappen van HydroNET 3 Naar HydroNET 4 waar gebruikt wordt gemaakt van Microservices. Momenteel kunnen de eindgebruikers niet data downloaden van de HydroNET 4. De downloads worden allen door de beheerders gedaan en dat ook via HydroNET 3. Door het implementeer van micro exportservice (ASP.net) kunnen de eindegebruikers zelf kunnen downloaden.
+
+                                    </p>
+  
+                                    <div className ="project-img">
+                      
+                                        <picture>
+   
+                                                <img src="https://static.wixstatic.com/media/fb684b_368e9e101ca740ab96a30b3db32fadaa~mv2.png" alt="Profile-pic" ></img>
+
+
+                                        </picture>
+
+                                    </div>
+                                    
+                                </div>
+
+                                
+                                
+                            </Cell>
+                            
+        <Cell col={6}>  
+                <div className="Project-tekst">
+
+                             
+                     
+                                    <h1>Portfolio site </h1>
+                                    <h2>React, CSS, Html</h2>
+                                    <p> Deze site dient als mijn portfolio. Hier kunt u informatie vinden over mij wat betreft mijn persoonlijke gegevens en mijn professionele voortgang.Mijn nieuwe portfolio-webapplicatie. Deze webapplicatie is gemaakt met een ReactJS-frontend.
+
+                                    </p>
+  
+                                    <div className ="project-img">
+                      
+                                        <picture>
+   
+                                                <img src="https://i.ibb.co/zxWV18k/Capture.png" alt="Profile-pic" ></img>
+
+
+                                        </picture>
+
+                                    </div>
+                                    
+                                </div>
+
+                                
                                 
                             </Cell>
 
